@@ -73,10 +73,10 @@ global.packname = "Christmichael 😇😇 " //ur sticker watermark packname
 global.author = "Christ-michael  " //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.thum = fs.readFileSync("./XeonMedia/a.png") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/a.png") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thumb = fs.readFileSync("./XeonMedia/a.png") //ur thumb pic
 
 //damtabase
 global.premium = ['917059114934'] //ur premium numbers
