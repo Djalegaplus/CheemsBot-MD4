@@ -55,22 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['+91 70591 14934'] //ur owner number
-global.ownername = "Ajay" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India ,Bengal" //ur location
+global.ownername = "Christ michael " //ur owner name
+global.ytname = "YT: Christ " //ur yt chanel name
+global.socialm = "GitHub: Christ " //ur github or insta name
+global.location = "Côte d'ivoire🇨🇮 ,Bassam " //ur location
 
 //bot bomdy 
-global.owner = ['917059114934']
-global.ownertag = '917059114934' //ur tag number
-global.botname = 'Ajay bot' //ur bot name
+global.owner = ['0173728874']
+global.ownertag = '225173728874' //ur tag number
+global.botname = 'Christ michael Bot' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Ajay🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Ajay " //ur sticker watermark author
+global.packname = "Christmichael 😇😇 " //ur sticker watermark packname
+global.author = "Christ-michael  " //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -106,12 +106,12 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
+    admin: 'Cette partie est réservée aux admins!',
+    botAdmin: 'Désolé je suis pas admin 🧑‍💼 !',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    bot: 'Cette fonctionnalité est uniquement pour le Bot',
     wait: 'In process...',
     linkm: 'Where is the link?',
     error: 'Error!!',
